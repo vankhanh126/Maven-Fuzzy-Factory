@@ -67,7 +67,7 @@ The table provides detailed information about individual items within customer o
 
 
 ### 3. "order_item_refunds" table
-The table contains valuable information about refunds associated with individual order items, hence used to track and analyze refunds, refund amounts, and their impact on the business.
+The table contains valuable information about refunds associated with individual order items, hence used to track and analyse refunds, refund amounts, and their impact on the business.
 
 | Column Name              | Description                                           |
 |--------------------------|-------------------------------------------------------|
