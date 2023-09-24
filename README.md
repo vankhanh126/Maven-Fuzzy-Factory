@@ -19,6 +19,6 @@ While Maven Fuzzy Factory is imaginary, this project demonstrates how data analy
 - [License](#license)
 
 ## Installation
-1. **Pre-requisites: Have MySQL Workbench installed.
+1. ** Pre-requisites: Have MySQL Workbench installed.
 
 2. 
