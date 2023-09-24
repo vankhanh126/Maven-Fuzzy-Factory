@@ -21,9 +21,9 @@ While Maven Fuzzy Factory is imaginary, this project demonstrates how data analy
 ## Installation
 1. **Pre-requisites:** Have MySQL Workbench installed.
 
-2. **Prepare the settings:** via [https://github.com/vankhanh126/Maven-Fuzzy-Factory/blob/main/SETUP.sql] (Setup Scrip)
+2. **Prepare the settings:** via [https://github.com/vankhanh126/Maven-Fuzzy-Factory/blob/main/SETUP.sql](SETUP)
 
-3. **Set up the database:** via [https://github.com/vankhanh126/Maven-Fuzzy-Factory/releases/tag/database](Database script)
+3. **Set up the database:** via [https://github.com/vankhanh126/Maven-Fuzzy-Factory/releases/tag/database](Database)
 
 
 
