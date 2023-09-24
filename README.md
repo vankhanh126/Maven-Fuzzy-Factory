@@ -26,5 +26,13 @@ While Maven Fuzzy Factory is imaginary, this project demonstrates how data analy
 3. **Set up the database:** via [DATABASE](https://github.com/vankhanh126/Maven-Fuzzy-Factory/releases/tag/database)
 
 
+## Dataset Description
 
+The database is a simulated representation and does not contain real data. It contains 6 tables that record orders, products, and websites information of Maven Fuzzy Factory over three years starting from March 2012.
+
+1. **orders**: contain essential information about customer orders, hence used to track and analyse the sales and transactions within Maven Fuzzy Factory.
+
+
+
+2. 
 
