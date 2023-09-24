@@ -31,6 +31,14 @@ While Maven Fuzzy Factory is imaginary, this project demonstrates how data analy
 The database is a simulated representation and does not contain real data. It contains 6 tables that record orders, products, and websites information of Maven Fuzzy Factory over three years starting from March 2012.
 
 1. **orders**: contain essential information about customer orders, hence used to track and analyse the sales and transactions within Maven Fuzzy Factory.
+- **order_id:** Unique identifier for each customer order.
+- **created_at:** Timestamp indicating when the order was created.
+- **website_session_id:** Unique identifier for the website session associated with the order.
+- **user_id:** Unique identifier for the customer who placed the order.
+- **primary_product_id:** Identifier of the primary product ordered in each transaction.
+- **items_purchased:** Quantity of the primary product purchased in each order.
+- **price_usd:** Total order price in US dollars, including product cost and additional charges.
+- **cog_usd:** Cost of goods (COG) associated with the order in US dollars.
 
 
 
