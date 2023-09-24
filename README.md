@@ -14,7 +14,7 @@ While Maven Fuzzy Factory is imaginary, this project demonstrates how data analy
 - [Dataset Description](#dataset-description)
 - [Analysis](#analysis)
 - [Results](#results)
-- [Usage](#usage)
+- [Discuss and Decisions](#discuss-and-decisions)
 - [Contributing](#contributing)
 - [License](#license)
 
