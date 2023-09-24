@@ -112,9 +112,9 @@ The table stores information about user sessions on the Maven Fuzzy Factory webs
 | **created_at**        | Timestamp indicating when the session started.      |
 | **user_id**           | Identifier for the user associated with the session. |
 | **is_repeat_session** | Indicator of whether the session is a repeat session. |
-| **utm_source**        | Source of traffic for the session (e.g., search engine or referral). |
+| **utm_source**        | Source of traffic for the session. |
 | **utm_campaign**      | Marketing campaign identifier associated with the session. |
-| **utm_content**       | Specific content identifier for the session (e.g., ad variation). |
+| **utm_content**       | Specific content identifier for the session. |
 | **device_type**       | Type of device used for the session (e.g., desktop, mobile). |
 | **http_referer**      | HTTP referer URL, indicating the previous page or source of the session. |
 
