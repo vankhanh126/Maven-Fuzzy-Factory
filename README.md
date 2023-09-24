@@ -4,9 +4,10 @@ Maven Fuzzy Factory: SQL-driven business growth analysis project showcasing data
 # Description
 This project analysed a fictional online retailer called 'Maven Fuzzy Factory' over a three-year period using a simulated database. The goal was to understand the company's growth and gain practical business insights.
 
-We explored Maven Fuzzy Factory's operations, tracking things like sales, customer behaviour, and finances. The data revealed trends and patterns that gave us insights into the company's market position, customer strategies, revenue, and efficiency. We presented these findings using reports and visuals.
+Maven Fuzzy Factory's operations, tracking things like sales, customer behaviour, and finances are explored via meticulous SQL query and analysis. The data revealed trends and patterns that gave insights into the company's market position, customer strategies, revenue, and efficiency.
 
 While Maven Fuzzy Factory is imaginary, this project demonstrates how data analysis can provide real-world insights.
+
 
 # Table of contents
 
